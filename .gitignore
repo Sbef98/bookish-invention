@@ -5,3 +5,5 @@
 
 # Ada Library Information
 *.ali
+#sqlite database
+*.db
